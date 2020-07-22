@@ -7,6 +7,7 @@ public class kamal {
 		System.out.println("Kamal this side");
 		
 		System.out.println(1);
+	 System.out.println(2);
 	}
 
 }
